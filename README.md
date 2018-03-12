@@ -1,4 +1,5 @@
-![develepod](./image/develep.jpg)
+# 开发路线图
+![roadmap](./image/develep.jpg)
 
 # Learnbgame
 Learnbgame is Learn by game
