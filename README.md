@@ -1,3 +1,12 @@
+# 开发路线图
+![roadmap](./image/develep.jpg)
+
+# 打包
+
+setuptools
+
+http://python.jobbole.com/87240/
+
 # Learnbgame
 Learnbgame is Learn by game
 
