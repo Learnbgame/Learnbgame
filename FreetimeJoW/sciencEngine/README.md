@@ -2,6 +2,8 @@
 
 # 数学——math
 
+#  信息技术学——IT
+
 # 物理学——physics
 
 # 生物学——biology
@@ -30,4 +32,4 @@
 
 # 法学——law
 
-# 体育学——physical
+# 体育学——PE
