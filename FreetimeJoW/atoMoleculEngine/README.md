@@ -16,3 +16,5 @@ atom 2 molecule 's engine
 [smiles](http://opensmiles.org/spec/open-smiles.html)+
 [blender-chemicals](https://github.com/patrickfuller/blender-chemicals)+
 [openbabel](https://github.com/openbabel/openbabel)+
+[pubchem.ncbi](https://pubchem.ncbi.nlm.nih.gov/search/search.cgi)+
+[chemexper](http://www.chemexper.com/index.shtml)+
