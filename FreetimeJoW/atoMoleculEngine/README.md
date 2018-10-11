@@ -7,6 +7,7 @@ atom 2 molecule 's engine
 [learnbgame](http://www.learnbgame.com/) +
 [images-of-elements](http://images-of-elements.com/) +
 [periodictable](http://www.periodictable.com/) +
+[PeriodicTable](http://theodoregray.com/PeriodicTable/) +
 
 # 原子到分子 blender
 [bioblender](http://www.bioblender.org/) +
