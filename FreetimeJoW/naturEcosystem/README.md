@@ -6,3 +6,9 @@ nature ecosystem
 # 食物链
 
 生产者——消费者——分解者
+
+植物生成——L-System[1](https://github.com/define-private-public/3D_L-System_Tree)——
+[2](https://github.com/lemurni/lpy-lsystems-blender-addon)——
+[3](https://github.com/friggog/tree-gen)——
+[4]()——
+[5]()
